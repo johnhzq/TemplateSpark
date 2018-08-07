@@ -1,0 +1,5 @@
+rootProject.name = 'TemplateSpark'
+include 'WordCount'
+include 'DFusion'
+include 'Example'
+
